@@ -7,7 +7,7 @@ COOKIE_FILE="/tmp/ddn_zabbix_cookie.txt"
 
 # --- CREDENTIALS ---
 API_USER="apiuser"
-ENC_PASS="Uw7OX+fWIsAHM2W01LzcDQ=="
+ENC_PASS="00gPaa70or3D"
 SIGN_METHOD="local"
 
 # 1. FORCE HOSTNAME TO LOCALHOST
